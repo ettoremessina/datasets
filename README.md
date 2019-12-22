@@ -1,4 +1,4 @@
-# datasets
+# Datasets
 The goal of this repository is to share original datasets create by me; they are useful for training, setup and test of data analysis algorithms and neural networks.
 At moment this repository contains one dataset only; in future I will add new datasets.
 
