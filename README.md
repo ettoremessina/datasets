@@ -8,5 +8,5 @@ Please visit [here](https://computationalmindset.com/en/datasets/synthetic-words
 
 ## Functions
 [functions](./functions) folder contains a collection of .csv and .arff files synthetically generated applying analytic functions to a closed subset of their own domain.
-Please visit [here](https://computationalmindset.com/en/datasets/functions-dataset.html) for details about this collection of dataset.
+Please visit [here](https://computationalmindset.com/en/datasets/functions-dataset.html) for details about this collection of datasets.
 
