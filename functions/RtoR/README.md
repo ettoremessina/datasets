@@ -1,29 +1,4 @@
-# R -> R
-
-## 001
-[001](./001) folder contains 
-
-## 002
-[002](./002) folder contains 
-
-## 003
-[003](./003) folder contains 
-
-## 004
-[004](./004) folder contains 
-
-## 005
-[005](./005) folder contains 
-
-## 006
-[006](./006) folder contains 
-
-## 007
-[007](./007) folder contains 
-
-## 008
-[008](./008) folder contains 
-
-## 009
-[009](./009) folder contains 
+# y=f(x) : R -> R
+This folder contains 9 datasets created using one-variable real-valued continuous and limited functions; for each function there are available both a data file for traning and a data file for test; and for each kind of data a pair of files: a .csv format file (with header with 2 columns labelled X and Y) and a .arff file format (for Weka).
+Please visit [here](https://computationalmindset.com/en/datasets/functions-dataset.html#RtoR) for details about this collection of dataset.
 
