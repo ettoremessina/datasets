@@ -6,6 +6,8 @@ The audio files are in wav format and are sampled at 22050 Hz mono; for each wor
 The files are collected in two tar.gz archives (10 words for each archive) freely downloadable; the repository also contains a script to unzip them and a script
 if you want to regenerate (on a Mac) the dataset, and you are allowed to change the words, voices and speeds.
 
+Please visit [here](https://computationalmindset.com/en/datasets/synthetic-words-dataset.html) for details about this dataset.
+
 ## Manifest
 
 - [synthetic-words-01.tar.gz](./synthetic-words-01.tar.gz): it is a tar.gz file that contains the English pronunciation of the following 10 words: cancel, copy, cut, edit, ok, paste, redo, save, select, undo.
