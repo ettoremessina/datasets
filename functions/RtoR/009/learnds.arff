@@ -1,7 +1,7 @@
 @relation learnds
 
-@attribute X numeric
-@attribute Y numeric
+@attribute x numeric
+@attribute y numeric
 
 @data
 -20,-40.6818
