@@ -10,3 +10,6 @@ Please visit [here](https://computationalmindset.com/en/datasets/synthetic-words
 [functions](./functions) folder contains a collection of .csv and .arff files synthetically generated applying analytic functions to a closed subset of their own domain.
 Please visit [here](https://computationalmindset.com/en/datasets/functions-dataset.html) for details about this collection of datasets.
 
+## Time Series
+[timeseries](./timeseries) folder contains a collection of .csv and .arff files synthetically generated applying analytic functions to the values of a sequence representing time.
+Please visit [here](https://computationalmindset.com/en/datasets/time-series-dataset.html) for details about this collection of datasets.
